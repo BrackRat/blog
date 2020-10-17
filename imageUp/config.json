@@ -1,1 +1,8 @@
-{a:"Hello world"}
+{
+	"code": 200,
+	"totalImage": 33,
+	"data": [{
+		"id": 1,
+		"url": "https://cdn.jsdelivr.net/gh/BrackRat/blog@latest/imageUp/image/0x0001.json"
+	}]
+}
